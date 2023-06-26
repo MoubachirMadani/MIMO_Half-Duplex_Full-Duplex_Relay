@@ -1,6 +1,5 @@
-%%% Please cite this article "Half-Duplex and Full-Duplex Interference
-%%% Mitigation in Relays Assisted Heterogeneous Network" PlosOne ID: PONE-D-22-34295
-%by Moubachir Madani Fadoul and Chee-Onn Chow"
+%%% Please cite this article "Madani Fadoul M, Chow C-O (2023) Half-duplex and full-duplex interference mitigation in relays assisted heterogeneous network. 
+%%%PLoS ONE 18(6): e0286970. https://doi.org/10.1371/journal.pone.0286970"
 %%% Figure number 3.
 clearvars
 close all
